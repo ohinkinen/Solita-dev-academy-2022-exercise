@@ -107,6 +107,6 @@
   },
   "exclude": [
     "*.test.ts",
-    "**/test/*.test.ts",
+    "**/tests/",
   ]
 }
